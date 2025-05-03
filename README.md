@@ -9,6 +9,9 @@ visualizations, using Tableau, for solving a business problem and supporting dec
 interactive dashboard. We were expected to select and utilize a majority of the concepts and techniques
 covered in the course and be able to elaborately explain and support the choices, which we managed to do.
 
+<img width="1409" alt="customer_dashboard_picture" src="https://github.com/user-attachments/assets/7ff1a0bf-c465-4f40-81a4-b2284828dce5" />
+
+
 ### Data Source
 
 Consumer Behavior Data: The primary dataset used for this analysis and interactive dashboard is the "Ecommerce_Consumer_Behavior_Analysis_Data.csv", containing comprehensive collection of consumer behavior data.
